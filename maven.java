@@ -23,6 +23,7 @@ public class maven {
 	      driver.manage().window().maximize();
 	      driver.get("https://course.ultimateqa.com/collections");
 	      System.out.println("Test case successfully");
+	//System.out.println("pavan");
 	}
 	@Test
 	public void blog(){
